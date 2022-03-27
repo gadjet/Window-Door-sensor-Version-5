@@ -70,10 +70,10 @@ void loop() {
   myData.id = BOARD_ID;
   // Read the state of the reed switch and send open or closed
   if (digitalRead(reedSwitch) == HIGH) {
-    strcpy(myData.state, "Closed");
+    strcpy(myData.state, "Open");
   }
   else {
-    strcpy(myData.state, "Open");
+    strcpy(myData.state, "Closed");
   }
 
   myData.vBatt = (analogRead(A0) * 4.2 * 10 / 1023);
