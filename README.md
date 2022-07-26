@@ -1,4 +1,7 @@
 # Window-Door-sensor-Version-5
+
+*** "Window sensor V5.zip" file added with all the files required for PCBA at JLCPCB.com previous files removed.
+
 Version 5 of the Window/Door sensor project this time with ultra low current consumption and a button input.
 
 I have continued to develop the original window/Door sensor from the Youtube video of Makermeik (https://github.com/MakerMeik) and this is the latest version (version 5)
