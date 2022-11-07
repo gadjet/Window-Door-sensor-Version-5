@@ -3,7 +3,7 @@
 *** "Window sensor V5.zip" file added with all the files required for PCBA at JLCPCB.com previous files removed.
 
 Version 5 of the Window/Door sensor project this time with ultra low current consumption and a button input.
-
+![20220325_195626](https://user-images.githubusercontent.com/1810366/200266914-61c2be56-a823-4789-83d1-3d2ba0b076e9.jpg)
 I have continued to develop the original window/Door sensor from the Youtube video of Makermeik (https://github.com/MakerMeik) and this is the latest version (version 5)
 At each revision I've tried to reduce the power consumption more and more and with this version the Quiescent current with the Door/Window shut is a around 5.4uA and with the door open or using as a WiFi button (Doorbell etc.) then it's around 3.9uA and depending on usage you're looking at years of usage on a small capacity L-ion cell.
 
