@@ -1,6 +1,7 @@
 # Window-Door-sensor-Version-5
 
 # I have found an error in the BOM file for the PCBA, U4 has the wrong LSC part number against it, I will correct the file ASAP
+# The file has now been corrected 8/11/22
 
 *** "Window sensor V5.zip" file added with all the files required for PCBA at JLCPCB.com previous files removed.
 
