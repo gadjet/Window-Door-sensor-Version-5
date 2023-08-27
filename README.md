@@ -17,3 +17,7 @@ When the ESP has finished running its code it sets GPIO16 low which resets the O
 To keep the power on time as short as possible I'm using ESP-NOW to send the data packets to the ESP receiver but you could connect to your router and send MQTT messages, this would use more power but as the consumption is quite low the cell would still last quite a long time.
 
 It has been pointed out to me that there are dedicated ICs out there that can handle this sort of thing, wake up from a button at least, but I can't find them readily available and the ones I can find are quite expesive, more than the cost of a populated Version 5 PCB from JLCPCB anyway.
+
+# NOTE:
+# It has been mentioned in the cissues that my TX/RX labels are non standard, this is true the pin labelled TX is connected to the RX of the ESP and vice versa.
+# I do this so when I plug in my flasher board the label match.
