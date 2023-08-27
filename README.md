@@ -19,5 +19,5 @@ To keep the power on time as short as possible I'm using ESP-NOW to send the dat
 It has been pointed out to me that there are dedicated ICs out there that can handle this sort of thing, wake up from a button at least, but I can't find them readily available and the ones I can find are quite expesive, more than the cost of a populated Version 5 PCB from JLCPCB anyway.
 
 # NOTE:
-# It has been mentioned in the cissues that my TX/RX labels are non standard, this is true the pin labelled TX is connected to the RX of the ESP and vice versa.
+# It has been mentioned in the issues that my TX/RX labels are non standard, this is true the pin labelled TX is connected to the RX of the ESP and vice versa.
 # I do this so when I plug in my flasher board the label match.
